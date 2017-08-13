@@ -1,2 +1,3 @@
 new text
 This is from TestGitCloneFromServer
+From TestGitCloneFromServer
